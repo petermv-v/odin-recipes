@@ -3,8 +3,23 @@
     background-color: black;
 }
 
-h1 {
+h1, h2, h3 {
     font-weight: 800;
     background-color: orange;
 }
 
+li, p, a {
+    color: white;
+
+}
+
+ol li {
+    font-style: oblique;
+    
+}
+
+ul li {
+    font-size: x-large;
+    font-style: italic; 
+    color: orange;
+}
